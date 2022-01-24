@@ -1,0 +1,107 @@
+
+
+
+   
+body{
+    background-color: darkcyan;
+    margin: 0px;
+    padding: 0px;
+}
+.flex{
+    display: flex;
+    
+    height: 120px;
+    border:solid;
+    background-color: rgb(15, 150, 160);
+  }
+  
+.flex> div {
+   
+    margin: 10px;
+    padding:10px;
+    font-size: 80px;
+    margin-left:130px;
+    font-weight: bold;
+    font-size:xx-large;
+    
+
+    
+  }
+.e {
+  
+    border-radius:10px;
+    padding: 5px;
+    margin-left: -140px;
+    margin-top:-15PX;
+    height: 100px;
+    font-size: 30px;
+}
+
+.big-text{
+font-size: 8px;
+margin: 20px 0px;
+
+}
+.small-text{
+  font-size: 22px;
+margin: 20px 0px;
+}
+.mv{
+  margin-left: 200px;
+  width: 750px;
+  padding: 50px;
+  background-color:rgba(7, 194, 194, 0.808);
+  border: solid;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+.vc{
+  text-align: center;
+  font-weight: bold;
+}
+.vx{
+  text-align: center;
+  font-weight: bold;
+  margin-left: 150px;
+}
+.vb{
+  text-align: center;
+  margin-left: -50px;
+  font-weight: bold;
+}
+.vq{
+  text-align: center;
+  margin-left: 140px;
+  font-weight: bold;
+}
+.vw{
+  text-align: center;
+  margin-left: 50px;
+  font-weight: bold;
+}
+.ve{
+  text-align: center;
+  margin-left: 30px;
+  font-weight: bold;
+}
+.vr{
+  text-align: center;
+  margin-left: 140px;
+  font-weight: bold;
+}
+.id{
+  text-align: center;
+  margin-left: 230px;
+  padding: 1px;
+  height: 600px;
+  width: 900px;
+  border: solid;
+}
+.i{
+  text-align: center;
+  font-weight: bold;
+}
+.a{
+  color: black;
+}
